@@ -107,6 +107,3 @@ Este projeto é ideal para empresas que desejam automatizar a remoção de acess
 - Permissão para executar scripts no Windows
 - Acesso ao Active Directory (com módulo `ActiveDirectory` instalado)
 
----
-
-Se quiser, posso te ajudar a colocar esse README no seu GitHub também. Quer?
