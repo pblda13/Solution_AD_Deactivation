@@ -107,3 +107,4 @@ Este projeto é ideal para empresas que desejam automatizar a remoção de acess
 - Permissão para executar scripts no Windows
 - Acesso ao Active Directory (com módulo `ActiveDirectory` instalado)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpblda13%2FSolution_AD_Deactivation&label=Visitors&labelColor=%23f47373&countColor=%23dce775)
